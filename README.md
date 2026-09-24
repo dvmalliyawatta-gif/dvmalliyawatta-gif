@@ -4,7 +4,7 @@
 
 3rd-year BSc (Hons) Information Technology undergraduate at SLIIT  
 Full Stack Developer (MERN Stack | Java | Python)  
-Actively seeking a Software Engineering Internship  
+
 
 ---
 
